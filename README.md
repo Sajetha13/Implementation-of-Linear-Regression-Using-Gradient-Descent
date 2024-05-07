@@ -66,7 +66,7 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![image](https://github.com/Sajetha13/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849316/f44f9482-f93b-4539-962a-97c208a30f9f)
+![image](https://github.com/Sajetha13/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849316/070da029-ccc1-46c3-928e-4ac80a770bb6)
 
 
 ## Result:
